@@ -1,5 +1,7 @@
 # PWG Digital Intelligence Internship
 
+![](https://github.com/Lucky-akash321/PWC-Digital-Intelligence/blob/main/DI.jpg)
+
 ## Overview
 The PWG Digital Intelligence Internship offered an immersive experience in the field of digital analytics and intelligence, where I had the opportunity to work on data-driven projects aimed at optimizing business performance and customer engagement. This internship allowed me to apply advanced data analysis techniques to large datasets, providing actionable insights for business strategy and decision-making.
 
